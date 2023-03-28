@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_size - etermines the size of a data structure
+ * get_size - determines the size of a data structure
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  *
