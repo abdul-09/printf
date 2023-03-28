@@ -3,7 +3,7 @@
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned -  prints an unsigned integer to a file
- * @types: types of data that can be printed 
+ * @types: types of data that can be printed
  * @buffer: temporary storage area in memory of a file
  * @flags: modify the behavior of the format specifiers
  * @width: specify the minimum number of characters to be printed for a value
@@ -37,7 +37,7 @@ int print_unsigned(va_list types, char buffer[],
 
 /************* PRINT UNSIGNED NUMBER IN OCTAL  ****************/
 /**
- * print_octal - prints an integer in octal format to the console 
+ * print_octal - prints an integer in octal format to the console
  * @types: Lista of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
