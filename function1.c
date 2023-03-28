@@ -2,8 +2,8 @@
 
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
- * print_unsigned - Prints an unsigned number
- * @types: List a of arguments
+ * print_unsigned -  prints an unsigned integer to a file
+ * @types: types of data that can be printed 
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width
