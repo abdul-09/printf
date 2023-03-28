@@ -2,7 +2,7 @@
 
 /************************* WRITE HANDLE *************************/
 /**
- * handle_write_char - handles the writing of a single character to output stream
+ * handle_write_char - handles writing of a single character to output stream
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
@@ -196,7 +196,7 @@ int write_unsgnd(int is_negative, int ind,
 }
 
 /**
- * write_pointer - Writes a memory address or pointer value to an output stream.
+ * write_pointer - Writes memory address or pointer value to an output stream
  * @buffer: Arrays of chars
  * @ind: Index at which the number starts in the buffer
  * @length: Length of number
